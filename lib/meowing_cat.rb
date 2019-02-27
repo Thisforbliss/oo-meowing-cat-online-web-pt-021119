@@ -1,7 +1,9 @@
 class Cat
   attr_accessor :cat
   
-:cat.name 
-:cat.meow 
+attr_accessor :name 
+
+
+  
 
 end
